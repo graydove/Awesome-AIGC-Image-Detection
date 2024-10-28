@@ -1,5 +1,5 @@
 # AIGCDetectBenchmark++
-New AIGC detection benchmark, including six benchmarks. 
+There is a new AIGC detection benchmark, including six benchmarks. All results are obtained by running their official codes; more details will be coming soon.
 
 
 ## AIGCDetectBenchmark
