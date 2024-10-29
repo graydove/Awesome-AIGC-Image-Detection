@@ -1,6 +1,8 @@
 # AIGCDetectBenchmark++
 There is a new AIGC detection benchmark, including six benchmarks. All results are obtained by running their official codes; more details will be coming soon.
 
+&nbsp;
+
 ### Accuracy (ACC) Tables
 
 #### AIGCDetectBenchmark
@@ -18,6 +20,8 @@ There is a new AIGC detection benchmark, including six benchmarks. All results a
 | C2L-CLIP  | arXiv2024 | 99.98        | 96.44       | 99.12       | 97.31        | 99.60        | 99.17        | 95.59       | 94.80       | 77.12       | 88.48       | 59.12       | 82.76       | 82.73       | 87.16       | 80.12       | 65.10       | 87.79         |
 | SAFE      | arXiv2024 | 99.86        | 98.04       | 89.72       | 98.87        | 99.90        | 91.52        | 98.57       | 51.95       | 82.05       | 96.29       | 95.27       | 99.41       | 99.27       | 96.29       | 98.21       | 95.30       | **93.16**     |
 
+&nbsp;
+
 #### ForenSynths
 
 |           | Time      | ProGAN       | StyleGAN    | StyleGAN2   | BigGAN      | CycleGAN     | StarGAN      | GauGAN       | Deepfake    | SITD        | SAN         | CRN         | IMLE        | WFIR        | Mean          |
@@ -32,6 +36,8 @@ There is a new AIGC detection benchmark, including six benchmarks. All results a
 | SSP       | arXiv2024 | 83.70        | 83.11       | 86.37       | 73.12       | 65.40        | 90.22        | 59.32        | 67.51       | 77.50       | 78.77       | 52.19       | 51.69       | 69.10       | 70.36         |
 | C2P-CLIP  | arXiv2024 | 99.98        | 96.44       | 95.59       | 99.12       | 97.31        | 99.60        | 99.17        | 93.77       | 95.56       | 64.38       | 93.29       | 93.29       | 94.80       | **94.02**     |
 | SAFE      | arXiv2024 | 99.86        | 98.04       | 98.57       | 89.72       | 98.87        | 99.90        | 91.52        | 93.10       | 85.56       | 95.91       | 50.10       | 50.10       | 51.95       | 84.86         |
+
+&nbsp;
 
 #### Self-Synthesis (GAN Based)
 
@@ -48,6 +54,8 @@ There is a new AIGC detection benchmark, including six benchmarks. All results a
 | C2P-CLIP  | arXiv2024 | 90.42       | 94.85        | 98.40        | 98.40       | 98.40       | 91.97       | 98.98       | 98.38      | 97.58        | 96.38         |
 | SAFE      | arXiv2024 | 99.38       | 99.80        | 99.73        | 99.55       | 99.73       | 99.55       | 94.48       | 98.80      | 99.90        | **98.99**     |
 
+&nbsp;
+
 #### Ojha (DM Based)
 
 |           | Time      | DALLE       | Glide_100_10 | Glide_100_27 | Glide_50_27 | ADM         | LDM_100     | LDM_200     | LDM_200_cfg | Mean          |
@@ -63,6 +71,8 @@ There is a new AIGC detection benchmark, including six benchmarks. All results a
 | C2P-CLIP  | arXiv2024 | 98.55       | 96.10        | 95.25        | 95.25       | 69.10       | 99.30       | 99.25       | 97.25       | 93.76         |
 | SAFE      | arXiv2024 | 97.50       | 97.25        | 95.75        | 96.60       | 82.36       | 98.80       | 98.80       | 98.65       | 95.71         |
 
+&nbsp;
+
 #### GenImage
 
 |           | Time      | Midjourney  | SDv1.4      | SDv1.5      | ADM         | Glide       | Wukong      | VQDM        | BigGAN      | Mean          |
@@ -77,6 +87,8 @@ There is a new AIGC detection benchmark, including six benchmarks. All results a
 | SSP*      | arXiv2024 | 84.38       | 99.09       | 99.03       | 93.21       | 98.78       | 98.45       | 95.74       | 78.06       | 93.57         |
 | C2P-CLIP  | arXiv2024 | 59.12       | 82.76       | 82.73       | 77.12       | 88.48       | 80.12       | 87.16       | 97.94       | 81.93         |
 | SAFE      | arXiv2024 | 95.27       | 99.41       | 99.27       | 82.05       | 96.29       | 98.21       | 96.29       | 97.84       | **95.58**     |
+
+&nbsp;
 
 #### DRCT-2M
 
