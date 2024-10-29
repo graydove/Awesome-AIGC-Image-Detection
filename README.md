@@ -14,17 +14,13 @@ There is a new AIGC image detection benchmark that includes six datasets and ten
 ## Datasets
 
 - [AIGCDetectBenchmark](https://github.com/Ekko-zn/AIGCDetectBenchmark)
-
 - [ForenSynths](https://github.com/peterwang512/CNNDetection)
-
 - [Self-Synthesis (GAN Based)](https://github.com/chuangchuangtan/FreqNet-DeepfakeDetection)
-
 - [UniversalFakeDetect (DM Based)](https://github.com/Yuheng-Li/UniversalFakeDetect)
-
 - [GenImage](https://github.com/GenImage-Dataset/GenImage)
-
 - [DRCT-2M](https://github.com/beibuwandeluori/DRCT)
 
+### Downloads
   |                           Dataset                            |                            Paper                             |                             Url                              |
   | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
   | [AIGCDetectBenchmark](https://github.com/Ekko-zn/AIGCDetectBenchmark) |        [PatchCraft](https://arxiv.org/abs/2311.12397)        | [googledrive](https://drive.google.com/drive/folders/1p4ewuAo7d5LbNJ4cKyh10Xl9Fg2yoFOw) |
