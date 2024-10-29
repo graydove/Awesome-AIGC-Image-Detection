@@ -7,7 +7,7 @@ There is a new AIGC image detection benchmark that includes six datasets and ten
 
 - [Datasets](#datasets)
 - [Papers](#Papers)
-- [Accuracy_Tables](#Accuracy_Tables)
+- [Accuracy](#Accuracy)
 
 &nbsp;
 
@@ -51,7 +51,7 @@ There is a new AIGC image detection benchmark that includes six datasets and ten
 
 &nbsp;
 
-## Accuracy_Tables
+## Accuracy
 
 ### AIGCDetectBenchmark
 
