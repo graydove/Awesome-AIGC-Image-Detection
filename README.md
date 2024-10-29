@@ -153,6 +153,4 @@ There is a new AIGC image detection benchmark that includes six datasets and ten
 | C2L-CLIP  | arXiv2024 |   83.02   |   51.96   |   51.94   |   52.92   |   51.94   |  **64.60**   |   51.72   |   50.62    |   52.03    | **66.05** |   56.86   |   54.69   | **77.77** |   67.24   |   57.14   |   56.72   |   59.20   |
 |   SAFE    | arXiv2024 |   50.28   |   50.05   |   50.00   |   49.98   |   49.92   |    50.14     |   49.96   |   49.95    |   50.13    |   49.95   |   49.94   |   50.00   |   54.74   |   98.18   | **98.47** | **97.26** |   59.31   |
 
-&nbsp;
-
 DRCT-2M appears to be more of a robustness dataset rather than an AIGC detection dataset. The JPEG format of the real images can disable many detection methods.
