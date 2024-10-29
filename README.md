@@ -34,7 +34,7 @@ There is a new AIGC image detection benchmark that includes six datasets and ten
   |   [GenImage](https://github.com/GenImage-Dataset/GenImage)   |   [GenImage_NeurIPS2023](https://arxiv.org/abs/2306.08571)   | [googledrive](https://drive.google.com/drive/folders/1jGt10bwTbhEZuGXLyvrCuxOI0cBqQ1FS) |
   |      [DRCT-2M](https://github.com/beibuwandeluori/DRCT)      | [DRCT-2M_ICML2024](https://icml.cc/virtual/2024/poster/33086) | [modelscope](https://modelscope.cn/datasets/BokingChen/DRCT-2M/files) |
 
-
+&nbsp;
 
 ## Papers
 
