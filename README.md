@@ -1,7 +1,7 @@
 # Awesome AIGC Image Detection
 There is a new AIGC image detection benchmark that includes six datasets and ten detection methods. We make sure that each number is based on a run of the corresponding codes, and the running code and environment, as well as the logs of the results, will be provided soon. If this list helps you on your research, a star will be my pleasure :)
 
-
+&nbsp;
 
 ## Content
 
