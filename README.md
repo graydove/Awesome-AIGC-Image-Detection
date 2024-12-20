@@ -44,6 +44,7 @@ There is a new AIGC image detection benchmark that includes six datasets and ten
 * **SSP**  A Single Simple Patch is All You Need for AI-generated Image Detection. *arXiv* 2024. [Paper](https://arxiv.org/abs/2402.01123) [Code](https://github.com/bcmi/SSP-AI-Generated-Image-Detection)
 * **C2P-CLIP**  C2P-CLIP: Injecting Category Common Prompt in CLIP to Enhance Generalization in Deepfake Detection. *AAAI* 2025. [Paper](https://arxiv.org/abs/2408.09647) [Code](https://github.com/chuangchuangtan/C2P-CLIP-DeepfakeDetection)
 * **SAFE**  SAFE: Simple Preserved and Augmented FEatures. *KDD* 2025. [Paper](https://arxiv.org/abs/2408.06741) [Code](https://github.com/Ouxiang-Li/SAFE)
+* **AIDE**  A Sanity Check for AI-generated Image Detection. *ICLR* 2025. [Paper](https://arxiv.org/abs/2406.19435) [Code](https://github.com/shilinyan99/AIDE)
 
 &nbsp;
 
