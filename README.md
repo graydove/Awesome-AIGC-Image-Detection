@@ -163,4 +163,5 @@ There is a new AIGC image detection benchmark that includes six datasets and ele
 |  AIDE_SDv1.4*  | ICLR2025  |   92.14   |   **94.96**   |   **94.96**   |   **90.00**   |   **87.76**   |    **96.76** |   **79.79**   |  **82.88** |  **94.20** |   **91.59**   |   **86.40**   |   **83.11**   |   **91.67**   |   97.65   |   88.39   |   90.43   |     **88.92**     |
 
 *The AIDE threshold was set at 0.07.
+
 DRCT-2M appears to be more of a robustness stable-diffusion dataset rather than an AIGC detection dataset. The JPEG format of the real images can disable many detection methods.
