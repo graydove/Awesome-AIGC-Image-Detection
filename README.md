@@ -1,6 +1,8 @@
 # Awesome AIGC Image Detection
 There is a new AIGC image detection benchmark that includes six datasets and several detection methods. We make sure that each number is based on a run of the corresponding codes, and the running code and environment, as well as the logs of the results, will be provided soon. If this list helps you on your research, a star will be my pleasure :)
 
+For [SAFE](https://arxiv.org/abs/2408.06741) replication, please refer to [SAFE](https://github.com/graydove/SAFE)) and feel free to test our replication code and checkpoints!
+
 &nbsp;
 
 ## Content
