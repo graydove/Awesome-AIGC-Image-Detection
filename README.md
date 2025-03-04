@@ -77,6 +77,7 @@ For [SAFE](https://arxiv.org/abs/2408.06741) replication, refer to [SAFE-self](h
 &nbsp;
 
 ## Accuracy
+*Maximum values are shown in bold.*
 ### AIGCDetectBenchmark
 |           |   Time    |  ProGAN   | StyleGAN  |  BigGAN   | CycleGAN  |  StarGAN  |  GauGAN   | StyleGAN2 |   WFIR    |    ADM    |   Glide   | Midjourney |  SD v1.4  |  SD v1.5  |   VQDM    |  Wukong   |  DALLE2   |   Mean    |
 | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: | :--------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: |
