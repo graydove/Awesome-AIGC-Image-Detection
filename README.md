@@ -47,7 +47,7 @@ For [SAFE](https://arxiv.org/abs/2408.06741) replication, please refer to [SAFE-
 * **DRCT**  DRCT: Diffusion Reconstruction Contrastive Training towards Universe Detection of Diffusion Generated Images. *ICML* 2024. [Paper](https://raw.githubusercontent.com/mlresearch/v235/main/assets/chen24ay/chen24ay.pdf) [Code](https://github.com/beibuwandeluori/DRCT)
 * **C2P-CLIP**  C2P-CLIP: Injecting Category Common Prompt in CLIP to Enhance Generalization in Deepfake Detection. *AAAI* 2025. [Paper](https://arxiv.org/abs/2408.09647) [Code](https://github.com/chuangchuangtan/C2P-CLIP-DeepfakeDetection)
 * **SAFE**  SAFE: Simple Preserved and Augmented FEatures. *KDD* 2025. [Paper](https://arxiv.org/abs/2408.06741) [Code](https://github.com/Ouxiang-Li/SAFE)
-* **AIDE**  A Sanity Check for AI-generated Image Detection. *ICLR* 2025. [Paper](https://arxiv.org/abs/2406.19435) [Code](https://github.com/shilinyan99/AIDE)
+* **AIDE**  A Sanity Check for AI-generated Image Detection. *ICLR* 2025. [Paper](https://arxiv.org/abs/2406.19435) [Code](https://github.com/shilinyan99/AIDE) AIDE_ProGAN is the detection model trained on the ProGAN dataset, and AIDE_SDv1.4 is the detection model trained on the SDv1.4 dataset, which comes from GenImage.
 
 &nbsp;
 
