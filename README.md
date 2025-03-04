@@ -95,8 +95,6 @@ For [SAFE](https://arxiv.org/abs/2408.06741) replication, refer to [SAFE-self](h
 | AIDE_ProGAN | ICLR2025  |  99.99  | **99.65** |   83.95   |   98.49   | **99.90** |   73.24   |   98.01   |   94.20   | **93.46** |   95.10   |   77.21    |   92.99   |   92.85   |   95.16   |   93.53   | **96.60** |   92.77   |
 | AIDE_SDv1.4 | ICLR2025  |  69.28  |   71.05   |   77.20   |   74.38   |   80.24   |   64.36   |   72.53   |   72.50   |   78.54   |   91.83   |   79.38    |   99.74   |   99.76   |   80.26   |   98.66   |   95.00   |   81.54   |
 
-*Full table truncated for brevity - see original for complete data*
-
 &nbsp;
 
 ### ForenSynths
