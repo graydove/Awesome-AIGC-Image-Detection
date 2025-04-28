@@ -67,12 +67,13 @@ For [SAFE](https://arxiv.org/abs/2408.06741) replication, refer to [SAFE-self](h
   [Paper](https://arxiv.org/abs/2408.09647) | [Code](https://github.com/chuangchuangtan/C2P-CLIP-DeepfakeDetection)
   
 * **SAFE**  
-  SAFE: Simple Preserved and Augmented FEatures  *KDD 2025*  
+  Improving Synthetic Image Detection Towards Generalization: An Image Transformation Perspective  *KDD 2025*  
   [Paper](https://arxiv.org/abs/2408.06741) | [Code](https://github.com/Ouxiang-Li/SAFE)
   
-* **AIDE**  
-  A Sanity Check for AI-generated Image Detection  *ICLR 2025*  
-  [Paper](https://arxiv.org/abs/2406.19435) | [Code](https://github.com/shilinyan99/AIDE)
+* **Community-Forensics**  
+  Community Forensics: Using Thousands of Generators to Train Fake Image Detectors  *CVPR 2025*  
+  [Paper](https://arxiv.org/abs/2411.04125) | [Code](https://github.com/JeongsooP/Community-Forensics)
+
 
 &nbsp;
 
@@ -95,6 +96,7 @@ For [SAFE](https://arxiv.org/abs/2408.06741) replication, refer to [SAFE-self](h
 |    SAFE     |  KDD2025  |  99.86  |   98.04   |   89.72   |   98.87   | **99.90** |   91.52   |   98.57   |   51.95   |   82.05   |   96.29   | **95.27**  |   99.41   |   99.27   | **96.29** |   98.21   |   95.30   | **93.16** |
 | AIDE_ProGAN | ICLR2025  |  99.99  | **99.65** |   83.95   |   98.49   | **99.90** |   73.24   |   98.01   |   94.20   | **93.46** |   95.10   |   77.21    |   92.99   |   92.85   |   95.16   |   93.53   | **96.60** |   92.77   |
 | AIDE_SDv1.4 | ICLR2025  |  69.28  |   71.05   |   77.20   |   74.38   |   80.24   |   64.36   |   72.53   |   72.50   |   78.54   |   91.83   |   79.38    |   99.74   |   99.76   |   80.26   |   98.66   |   95.00   |   81.54   |
+| Community-Forensics | CVPR2025 | 95.31 | 96.65 | 98.9 | 98.33 | 99.97 | 98.94 | 96.37 | 99.9 | 92.28 | 99.79 | 85.93 | 99.88 | 99.86 | 99.94 | 99.89 | 96.65 | 97.41 |
 
 &nbsp;
 
@@ -116,6 +118,7 @@ For [SAFE](https://arxiv.org/abs/2408.06741) replication, refer to [SAFE-self](h
 |    SAFE     |  KDD2025  |  99.86  |   98.04   |   98.57   |   89.72   |   98.87   | **99.90** |   91.52   |   93.10   |   85.56   | **95.91** |   50.10   |   50.10   |   51.95   |   84.86   |
 | AIDE_ProGAN | ICLR2025  |  99.99  | **99.65** |   98.01   |   83.95   |   98.49   | **99.90** |   73.24   |   54.06   |   68.61   |   71.00   |   60.87   |   61.00   |   94.20   |   81.77   |
 | AIDE_SDv1.4 | ICLR2025  |  69.28  |   71.05   |   72.53   |   77.20   |   74.38   |   80.24   |   64.36   |   54.25   |   69.72   |   57.53   |   49.62   |   67.66   |   72.50   |   67.72   |
+| Community-Forensics | CVPR2025 |  95.31  | 96.65 | 96.37 | 98.9 | 98.33 |   99.97   | 98.94 | 85.46 | 70.83 | 77.85 |   75.96   | 79.5 | 99.9 | 90.31 |
 
 *Note: ForenSynths contains <1K images in SAN/SITD categories and exhibits class imbalance*
 
@@ -137,6 +140,7 @@ For [SAFE](https://arxiv.org/abs/2408.06741) replication, refer to [SAFE-self](h
 |    SAFE     |  KDD2025  | **99.38** |   99.80   | **99.73** | **99.55**  | **99.73** |   99.55   |   94.48   | **98.80** | **99.90** | **98.99** |
 | AIDE_ProGAN | ICLR2025  |   98.05   |   94.38   |   98.05   |   97.98    |   97.93   |   98.13   |   85.93   |   95.30   |   95.93   |   95.74   |
 | AIDE_SDv1.4 | ICLR2025  |   84.13   |   51.30   |   57.40   |   58.25    |   65.65   |   63.33   |   49.50   |   56.23   |   64.90   |   61.19   |
+| Community-Forensics | CVPR2025 | 90.88 | 99.98 | 99.08 | 98.83 | 98.7 | 92.7 | 97.13 | 92.1 | 70.2 | 93.29 |
 
 &nbsp;
 
@@ -156,6 +160,7 @@ For [SAFE](https://arxiv.org/abs/2408.06741) replication, refer to [SAFE-self](h
 |    SAFE     |  KDD2025  |   97.50   |    97.25     |    95.75     |    96.60    |   82.36   |   98.80   |   98.80   |  **98.65**  |   95.71   |
 | AIDE_ProGAN | ICLR2025  |   97.50   |    97.85     |  **98.15**   |    98.40    | **89.30** |   98.40   |   98.20   |    97.45    |   96.91   |
 | AIDE_SDv1.4 | ICLR2025  |   87.55   |    92.90     |    92.85     |    93.60    | **89.30** |   97.20   |   97.10   |    97.70    |   93.53   |
+| Community-Forensics | CVPR2025 | 98.45 | 98.35 | 98.3 | 98.15 | 88.45 | 98.4 | 98.4 | 98.4 | 97.11 |
 
 &nbsp;
 
@@ -177,6 +182,7 @@ For [SAFE](https://arxiv.org/abs/2408.06741) replication, refer to [SAFE-self](h
 |    SAFE     |  KDD2025  | **95.27**  |   99.41   |   99.27   |   82.05   |   96.29   |   98.21   | **96.29** |   97.84   | **95.58** |
 | AIDE_ProGAN | ICLR2025  |   77.22    |   92.99   |   92.85   | **93.47** |   95.10   |   93.53   |   95.16   |   95.19   |   91.94   |
 | AIDE_SDv1.4 | ICLR2025  |   79.38    |   99.74   |   99.76   |   78.54   |   91.83   |   98.66   |   80.26   |   66.89   |   86.88   |
+| Community-Forensics | CVPR2025 | 85.93 | 99.88 | 99.86 | 92.28 | 99.79 | 99.89 | 99.94 | 86.75 | 95.54 |
 
 &nbsp;
 
@@ -196,14 +202,12 @@ For [SAFE](https://arxiv.org/abs/2408.06741) replication, refer to [SAFE-self](h
 |     SAFE     |  KDD2025  |   50.28   |   50.05   |   50.00   |   49.98   |   49.92   |    50.14     |   49.96   |   49.95    |   50.13    |   49.95   |   49.94   |   50.00   |   54.74   |   98.18   | **98.47** | **97.26** | 59.31 |
 | AIDE_ProGAN  | ICLR2025  |   71.87   |   50.83   |   50.79   |   50.21   |   49.61   |    53.54     |   49.87   |   49.81    |   50.16    |   51.26   |   53.81   |   53.71   |   65.30   |   94.92   |   90.17   |   89.13   | 60.94 |
 | AIDE_SDv1.4  | ICLR2025  |   61.87   | **74.76** | **74.53** |   58.07   |   53.00   |  **66.01**   |   52.86   |   53.00    | **69.76**  |   54.05   |   64.95   |   53.1    |   53.45   |   95.33   |   73.28   |   69.47   | **64.22** |
-| AIDE_ProGAN* | ICLR2025  |   78.39   |   58.23   |   57.73   |   54.5    |   48.71   |    62.51     |   52.96   |   47.07    |   55.74    |   56.36   |   68.62   |   67.01   |   72.84   |   78.88   |   78.48   |   78.37   | 63.53 |
-| AIDE_SDv1.4* | ICLR2025  |   92.14   |   94.96   |   94.96   |   90.00   |   87.76   |    96.76     |   79.79   |   82.88    |   94.20    |   91.59   |   86.40   |   83.11   |   91.67   |   97.65   |   88.39   |   90.43   | 90.17 |
-
-*Threshold set at 0.07
+| Community-Forensics | CVPR2025 | 98.35 | 99.41 | 99.19 | 96.44 | 87.03 | 98.24 | 98.63 | 98.11 | 99.82 | 98.74 | 97.6 | 98.24 | 99.48 | 98.91 | 98.21 | 84.07 | 96.90 |
 
 &nbsp;
 
 **Key Observations:**
+
 - DRCT-2M primarily evaluates robustness against JPEG compression artifacts
 - SAFE demonstrates strong cross-domain generalization
 - Task-specific methods (AIDE_ProGAN/AIDE_SDv1.4) excel on their target domains
