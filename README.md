@@ -69,6 +69,10 @@ For [SAFE](https://arxiv.org/abs/2408.06741) replication, refer to [SAFE-self](h
 * **SAFE**  
   Improving Synthetic Image Detection Towards Generalization: An Image Transformation Perspective  *KDD 2025*  
   [Paper](https://arxiv.org/abs/2408.06741) | [Code](https://github.com/Ouxiang-Li/SAFE)
+
+* **AIDE**  
+  A Sanity Check for AI-generated Image Detection  *ICLR 2025*  
+  [Paper](https://arxiv.org/abs/2406.19435) | [Code](https://github.com/shilinyan99/AIDE)
   
 
 &nbsp;
