@@ -16,7 +16,7 @@ For [SAFE](https://arxiv.org/abs/2408.06741) replication, refer to [SAFE-self](h
 
 | Dataset | Paper | Download |
 |---------|-------|----------|
-| [AIGCDetectBenchmark](https://github.com/Ekko-zn/AIGCDetectBenchmark) | [PatchCraft](https://arxiv.org/abs/2311.12397) | [Google Drive](https://drive.google.com/drive/folders/1p4ewuAo7d5LbNJ4cKyh10Xl9Fg2yoFOw) |
+| [AIGCDetectBenchmark](https://github.com/Ekko-zn/AIGCDetectBenchmark) | [PatchCraft](https://arxiv.org/abs/2311.12397) | [ModelScope](https://modelscope.cn/datasets/aemilia/AIGCDetectionBenchMark) |
 | [ForenSynths](https://github.com/peterwang512/CNNDetection) | [CNNDetection (CVPR 2020)](https://arxiv.org/abs/1912.11035) | [Hugging Face](https://huggingface.co/datasets/sywang/CNNDetection/resolve/main/CNN_synth_testset.zip) |
 | [Self-Synthesis (GAN Based)](https://github.com/chuangchuangtan/FreqNet-DeepfakeDetection) | [FreqNet (AAAI 2024)](https://arxiv.org/abs/2403.07240) | [Google Drive](https://drive.google.com/drive/folders/11E0Knf9J1qlv2UuTnJSOFUjIIi90czSj?usp=sharing) |
 | [UniversalFakeDetect (DM Based)](https://github.com/Yuheng-Li/UniversalFakeDetect) | [UnivFD (CVPR 2023)](https://arxiv.org/abs/2302.10174) | [Google Drive](https://drive.google.com/drive/folders/1nkCXClC7kFM01_fqmLrVNtnOYEFPtWO-?usp=sharing) |
