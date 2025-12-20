@@ -3,6 +3,8 @@ This benchmark provides a comprehensive evaluation of AIGC image detection metho
 
 For [SAFE](https://arxiv.org/abs/2408.06741) replication, refer to [SAFE-self](https://github.com/graydove/SAFE). We welcome community verification of our implementation.
 
+We are planning to launch a new and more challenging benchmark, aiming to include the latest detectors and generators. Additionally, we will strive to make the inference code public. If you have any suggestions, please feel free to leave a comment!
+
 &nbsp;
 
 ## Contents
